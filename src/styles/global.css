@@ -1,5 +1,12 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     background-color: rgb(112, 112, 112);
+    
+    h1 {
+        font-family: 'Arial Black', sans-serif;
+        font-size: 3rem;
+    }
 }
