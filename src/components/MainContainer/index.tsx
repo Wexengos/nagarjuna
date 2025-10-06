@@ -7,5 +7,6 @@ export const MainContainer = styled.div`
     background-color: white;
     align-items: center;
     width: 70rem;
-    height: 120rem;
+    height: auto;
+    padding: 2rem;
 `
